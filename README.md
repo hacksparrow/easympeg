@@ -23,6 +23,7 @@ easympeg takes the following options:
 `-i`: Input files. Can be a single file (*ok.mp3*) or a blob (*'raw/\*.wav'*). Specify a blob for batch conversion. Make sure to quote the inpur
 `-o`: Output path. Can be a single file (*songs/cool.mp3*) or a directory name (*converted*). Directory name is required for batch conversion. If a directory name is not derivable, the output directory will default to *easympeg-output*.
 `-f`: Output format. Example: *mp3*, *mp4*, *wav* etc.
+`-v`: Verbose. Show conversion info on the screen.
 
 **Examples**
 
